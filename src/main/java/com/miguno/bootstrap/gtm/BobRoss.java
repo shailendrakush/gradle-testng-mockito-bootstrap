@@ -19,8 +19,6 @@ import com.google.common.collect.ImmutableSet.Builder;
  * 
  * shailendr
  * kumarggg
- * 
- * ffffffffffffffffffffffffffffffffffffffss
  * object from painting elements and let our painter paint that painting object, for instance.)
  * 
  * "And from all of us here I'd like to wish you happy painting and God bless, my friend."
