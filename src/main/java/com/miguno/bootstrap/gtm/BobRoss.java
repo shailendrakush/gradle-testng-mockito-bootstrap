@@ -8,12 +8,6 @@ import com.google.common.collect.ImmutableSet.Builder;
 
 /**
  * 
- * shhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
- *ggggggggggggggggggggggggggggggggggggggggggggggg
- *
- *hhhhhhhhhhhhhhhhhhhjjjj
- * ggggggggggggggggggggggggsssggggggggggggggSSf
- *gggggggggggggggggggggggggggggggggggggggggggggggdd
  * 
  * object from painting elements and let our painter paint that painting object, for instance.)
  * 
